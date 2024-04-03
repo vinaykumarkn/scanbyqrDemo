@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "text": "Total Visitor",
+      "count": "42202",      
+      "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "icon": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "svg": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "text": "Total Properties",
+      "count": "42201",      
+      "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "icon": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "svg": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "text": "Properties for Sell",
+      "count": "42205",      
+      "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "icon": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "svg": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "text": "Properties for Rent",
+      "count": "422052",      
+      "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "icon": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "svg": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "text": "Owner Property",
+      "count": "422050",      
+      "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "icon": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg",
+      "svg": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+    }
+  ]
+  
